@@ -11,3 +11,9 @@ Or without that left green bar, that works also.
 
 And now?
 - Annoying
+
+ - minus sign
+ + plus sign
+ | pipe
+ * Star
+ / forward slash
